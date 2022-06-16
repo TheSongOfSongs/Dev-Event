@@ -114,11 +114,6 @@
 <br />
 
 ## 22년 04월
-- __[주니어 개발자가 가장 많이 하는 실수 - 리맴버](https://zero-base.co.kr/category_dev_camp/school_FE)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 제로베이스
-  - 일시: 04. 21(목) 19:00 ~ 20:00
-
 - __[Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://devocean.sk.com/events/view.do?id=115)__
   - 분류: `웨비나`, `AI`
   - 주최: DEVOCEAN
@@ -195,10 +190,6 @@
   - 분류: `경진대회`
   - 주최: DACON
   - 일시: 04. 18(월) ~ 04. 29(금)
-- __[월간 GDG: 광주 04월호](https://festa.io/events/2252)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: GDG 광주
-  - 일시: 04. 30(토) 13:00 ~ 15:00
 
 <br />
 
@@ -252,11 +243,6 @@
   - 분류: `컨퍼런스`
   - 주최: Apple
   - 일시: 06. 06(월) ~ 06. 10(금)
-
-- __[2022 Azure Virtual Hackathon](https://aifactory.space/competition/detail/2005)__
-  - 분류: `해커톤`
-  - 주최: 마이크로소프트
-  - 일시: 03. 24(목) ~ 06. 10(금)
 - __[nexon developers conference 22](https://ndc.nexon.com/main)__
   - 분류: `컨퍼런스`
   - 주최: 넥슨
